@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danich786&label=Profile%20views&color=0e75b6&style=flat" alt="danich786" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danich786" alt="danich786" /></a> </p>
-
 - 📫 How to reach me **dani.dh786@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
