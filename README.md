@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full Stack Developer with 5 five years of experience developing web applications. With a solid understanding of software architecture and design principles, I excel at implementing scalable, resilient, and easy-to-maintain solutions.
+I am a Full Stack Developer with 5 years of experience developing web applications. With a solid understanding of software architecture and design principles, I excel at implementing scalable, resilient, and easy-to-maintain solutions.
 
 
 # 💻 Tech Stack:
