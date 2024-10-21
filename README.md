@@ -1,5 +1,5 @@
 # 💫 About Me:
-A vibrant and energetic software engineer, infatuated with the intricacies of coding and building digital innovations. Celebrated for their unmatched skill in logical synthesis, adept problem-solving, and articulate communication style.
+A vibrant and energetic software engineer, infatuated with the intricacies of coding and building digital innovations. Celebrated for unmatched skill in logical synthesis, adept problem-solving, and articulate communication style.
 
 
 # 💻 Tech Stack:
