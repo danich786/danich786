@@ -11,9 +11,6 @@ A vibrant and energetic software engineer, infatuated with the intricacies of co
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 # 📊 GitHub Stats:
-
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=danich786&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=danich786&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danich786&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
